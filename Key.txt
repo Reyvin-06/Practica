@@ -1,0 +1,5 @@
+@echo off
+echo.
+echo Numero de Serie: 18330506
+echo.
+pause
